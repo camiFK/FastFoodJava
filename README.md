@@ -1,4 +1,4 @@
-# Java Exercises
+# Fast Food Java Exercise
 
 ### 1. Simple algorithm for a fast food chain exercise.
  The program must have a menu to: upload burger combos, show a total supplies report, and end the program.
